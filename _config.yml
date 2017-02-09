@@ -1,0 +1,69 @@
+# Basic
+title: 施杰
+subtitle: 个人博客
+description: 怕什么真理无穷，进一寸有一寸的欢喜
+# 头像里面的标题
+avatarTitle: TODO
+# 头像里面的描述
+avatarDesc: iOS
+url: "https://nanocramer.github.io"
+
+# Comment
+comment:
+    # disqus: leopard
+    duoshuo: leopard 
+
+# Social
+social:
+    # weibo:  
+    github: nanoCramer
+    # twitter: 
+    mail: njuptsj416@sina.com
+
+# 百度统计 
+# 使用博客模板请去掉或者更换 id 
+# baidu:
+    # id: 8ba1c6be0953b6f9c2ba38e57f615421  
+
+# Google Analytics
+# 使用博客模板请去掉或者更换 id
+# ga:
+#     id: UA-84134159-3   
+#     host: auto  
+
+
+# 《----------------- 上面的信息修改成你自己的 ---------------------------》
+#
+#
+#  _post/ 下的文章更换成你自己的文章
+#
+#
+# 《--------------- 下面的信息可以自行选择是否修改 ------------------------》
+
+
+permalink: /:year/:month/:title/
+# Format
+highlighter: rouge
+
+textColor: #FF0000
+
+# supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
+cover_color: clear
+
+# The blog button should not be removed.
+blog_button:
+    title: 博客主页
+
+# Navigation buttons in the front page.s
+nav:
+    - {title: 所有文章, description: archive, url: '/archive'}   
+    - {title: 标签, description: tags, url: '/tags'}      
+    - {title: 关于我, description: about, url: '/about'}      
+    
+
+# Pagination
+gems: [jekyll-paginate]
+paginate: 20
+paginate_path: "page/:num/"
+
+

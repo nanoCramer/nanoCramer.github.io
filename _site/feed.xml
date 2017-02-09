@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>施杰</title>
+    <description>怕什么真理无穷，进一寸有一寸的欢喜</description>
+    <link>https://nanocramer.github.io/</link>
+    <atom:link href="https://nanocramer.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 09 Feb 2017 21:06:06 +0800</pubDate>
+    <lastBuildDate>Thu, 09 Feb 2017 21:06:06 +0800</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+  </channel>
+</rss>
